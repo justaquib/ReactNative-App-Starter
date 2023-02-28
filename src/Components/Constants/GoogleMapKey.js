@@ -1,2 +1,2 @@
 
-export const GOOGLE_MAP_KEY = "AIzaSyBdLwUflBZUaQsDt4QcAuIv_yAGWPqebSg";
+export const GOOGLE_MAP_KEY = "Add You Own Key";
